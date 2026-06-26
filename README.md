@@ -88,4 +88,5 @@ python main.py
 
 Oasis Infobyte Internship (OIBSIP)
 
-![image alt]https://github.com/SiddheshKadam07/OIBSIP_TASK_NO_2/blob/801188589fb59df3b5bbdee6d673e4b15a5fce84/Screenshot%202026-06-26%20172933.png
+![image alt](https://github.com/SiddheshKadam07/OIBSIP_TASK_NO_2/blob/801188589fb59df3b5bbdee6d673e4b15a5fce84/Screenshot%202026-06-26%20172933.png)
+![image alt](https://github.com/SiddheshKadam07/OIBSIP_TASK_NO_2/blob/801188589fb59df3b5bbdee6d673e4b15a5fce84/Screenshot%202026-06-26%20172943.png)
